@@ -1,4 +1,4 @@
-Olá, sou Letícia Costa 👋
+<b><h2>Olá, sou Letícia Costa 👋 </h2></b>
 
 
 - 👩‍💻 Atualmente trabalho como Analista de Sistemas
@@ -19,3 +19,10 @@ Olá, sou Letícia Costa 👋
 </div> <br>
 
 ![Snake animation](https://github.com/lecosta29/lecosta29/blob/output/github-contribution-grid-snake.svg)
+
+
+<b><h2> Conecte-se Comigo No Linkedln </h2></b>
+<div> 
+  <a href="https://www.linkedin.com/in/let%C3%ADciacostalima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
