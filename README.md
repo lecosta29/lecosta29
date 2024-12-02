@@ -14,8 +14,8 @@ Olá, sou Letícia Costa 👋
 </div><br>
 
 <div>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=lecosta29&theme=blue-green"/>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lecosta29&theme=blue-green"/>
+<img height="180" width="380" src= "https://github-readme-stats.vercel.app/api?username=lecosta29&theme=blue-green"/>
+<img height="180" width="400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lecosta29&theme=blue-green"/>
 </div> <br>
 
 ![Snake animation](https://github.com/lecosta29/lecosta29/blob/output/github-contribution-grid-snake.svg)
